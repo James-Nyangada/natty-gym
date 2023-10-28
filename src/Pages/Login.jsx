@@ -75,7 +75,7 @@ function Login() {
               Sign In
             </button>
             <div className="flex gap-4 items-center mt-16 min450:flex-col">
-              <p className="text-white text-[1.5rem]">New to Gymate?</p>
+              <p className="text-white text-[1.5rem]">New to Natty Gym?</p>
               <Link
                 to="/signup"
                 className="text-[#ff0336] font-bold text-[1.5rem]"
@@ -85,7 +85,7 @@ function Login() {
             </div>
             <p className="text-[#ffffffbc] text-[1.4rem] mt-3">
               <span className="text-[#ff0336]">Test Account</span> -
-              gymate@gymail.com <span className="text-[#ff0336]"> / </span>
+              nattygym@gmail.com <span className="text-[#ff0336]"> / </span>
               testpassword123
             </p>
           </form>

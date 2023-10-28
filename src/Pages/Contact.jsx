@@ -17,7 +17,7 @@ function Login() {
               We are here for help you! To Shape Your Body.
             </h2>
             <p className="text-[16px] w-[95%] text-[#646464] font-medium my-[40px]">
-              At Gymate, we are dedicated to helping you achieve the body of
+              At Natty Gym, we are dedicated to helping you achieve the body of
               your dreams. Our expert trainers and nutritionists will work with
               you to create a personalized fitness and nutrition plan that helps
               you reach your specific goals.
@@ -48,7 +48,7 @@ function Login() {
                 <span className="bg-[#ff0336] w-[50px] h-[4px] absolute top-[33px]"></span>
                 <div className="text-[15px] font-medium text-[#646464]">
                   <p>+254 123 456 789</p>
-                  <p>&nbsp; gymate@gymail.com</p>
+                  <p>&nbsp; nattygym@gmail.com</p>
                 </div>
               </div>
               {/*  */}

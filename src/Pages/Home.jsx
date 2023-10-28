@@ -19,7 +19,7 @@ function Home() {
       <Featured />
       <ChooseUs />
       <Trainers />
-      <Testimonials />
+      {/* <Testimonials /> */}
       <Gallery />
       <BmiCalc />
       <Pricing />
