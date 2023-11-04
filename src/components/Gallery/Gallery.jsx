@@ -14,8 +14,8 @@ function Gallery() {
         <div className="container page-padding py-[4rem]">
           {/* title div -- */}
           <div className="flex flex-col text-center relative items-center ">
-            <p className="text-white relative z-10 text-[15px] uppercase font-bold mb-10">
-              GYMATE GALLERY
+            <p className="text-black relative z-10 text-[15px] uppercase font-bold mb-10">
+              NATTY GYM GALLERY
             </p>
             <img
               src={TitleRed}

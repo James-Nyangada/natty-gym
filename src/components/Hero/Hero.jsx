@@ -20,7 +20,7 @@ function Hero() {
             <img
               src={TitleBg}
               alt="text_bg"
-              className=" w-[52%] absolute -top-3 title-white min800:w-[24rem] "
+              className=" w-[52%] absolute -top-3 title-[#FFCC00] min800:w-[24rem] "
             />
             <h1 className="font-bold text-[48px] uppercase mb-[4rem] min450:text-[40px]">
               make your body <br />
@@ -41,16 +41,16 @@ function Hero() {
           absolute top-2/4 right-0 items-center min800:hidden"
         >
           <p className="uppercase  text-3xl font-bold tracking-widest">Socials</p>
-          <span className="w-[35px] bg-[#FF0336] h-[2.5px] mr-6"></span>
+          <span className="w-[35px] bg-[#FFCC00] h-[2.5px] mr-6"></span>
           <div className="text-white gap-7 flex mr-7 ">
             <a href="">
-              <i className="fa-brands rotate-90 hover:text-[#FF0336] fa-facebook text-3xl cursor-pointer ease-in duration-200 "></i>
+              <i className="fa-brands rotate-90 hover:text-[#FFCC00] fa-facebook text-3xl cursor-pointer ease-in duration-200 "></i>
             </a>
             <a href="">
-              <i className="fa-brands rotate-90 hover:text-[#FF0336] fa-twitter text-3xl cursor-pointer ease-in duration-200"></i>
+              <i className="fa-brands rotate-90 hover:text-[#FFCC00] fa-twitter text-3xl cursor-pointer ease-in duration-200"></i>
             </a>
             <a href="">
-              <i className="fa-brands rotate-90 hover:text-[#FF0336]  fa-linkedin-in text-3xl cursor-pointer ease-in duration-200 "></i>
+              <i className="fa-brands rotate-90 hover:text-[#FFCC00]  fa-linkedin-in text-3xl cursor-pointer ease-in duration-200 "></i>
             </a>
             
           </div>

@@ -8,7 +8,7 @@ function Blog() {
         <div className="container page-padding py-[10rem]">
           {/* title div -- */}
           <div className="flex flex-col text-center relative items-center">
-            <p className="text-white relative z-10 text-[15px] uppercase font-bold mb-8">
+            <p className="text-black relative z-10 text-[15px] uppercase font-bold mb-8">
               latest blog
             </p>
             <img

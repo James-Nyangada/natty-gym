@@ -125,7 +125,7 @@ body {
   content: '';
   width: 20rem;
   height: 5.5rem;
-  border: 1px solid #FF0336;
+  border: 1px solid #FFCC00;
   position: absolute;
   top: -0px;
   left: 0px;
@@ -465,7 +465,7 @@ body {
 }
 
 .choose-cta:hover:after {
-  border: 2px solid #FF0336;
+  border: 2px solid #FFCC00;
 }
 
 /* trainers section */
@@ -629,12 +629,12 @@ body {
 }
 
 .pricing-cta::after {
-  border: 2px solid #ff03353b;
+  border: 2px solid #FFCC00;
 
 }
 
 .pricing-cta:hover:after {
-  border: 2px solid #FF0336;
+  border: 2px solid #FFCC00;
 }
 
 /* blog section */
@@ -797,7 +797,7 @@ body {
 
 *::-webkit-scrollbar-thumb {
   border-radius: 80px;
-  background-color: #FF0336;
+  background-color: #FFCC00;
   border: 1.5px solid #fff;
 }
 

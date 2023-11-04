@@ -18,10 +18,10 @@ function BlogBox({ img, title }) {
           printer took a galley.
         </p>
         <MainButton
-          color={`!text-white`}
-          bg={`bg-[#ff0336]`}
+          color={`!text-black`}
+          bg={`bg-[#FFCC00]`}
           text="purchase now"
-          arrowColor={`!text-white`}
+          arrowColor={`!text-black`}
           cN="pricing-cta blog-cta"
         />
       </div>

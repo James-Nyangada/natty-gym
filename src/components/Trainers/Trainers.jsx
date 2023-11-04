@@ -8,7 +8,7 @@ function Trainers() {
         <div className="container page-padding py-[12rem]">
           {/* title div -- */}
           <div className="flex flex-col items-center text-center relative">
-            <p className="text-white relative z-10 text-[16px] uppercase font-bold mb-10">
+            <p className="text-black relative z-10 text-[16px] uppercase font-bold mb-10">
               gym trainers
             </p>
             <img
@@ -21,10 +21,10 @@ function Trainers() {
               Team Of Expert Coaches
             </h2>
             <p className="text-[#646464] font-medium text-[15px] ">
-              Expert team of coaches helps you succeed in any goal,
-              <br /> personalized guidance and motivation provided!
+              A skillfully crafted Team of Experts who provide
+              <br /> personalized guidance and motivation!
             </p>
-          </div>
+          </div> 
 
           {/* trainers div -- */}
           <div className="flex mt-20 ">

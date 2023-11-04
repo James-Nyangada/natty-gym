@@ -26,7 +26,7 @@ function About() {
           >
             {/* about text */}
             <div className="mt-[10.5rem] relative md1000:items-center md1000:flex md1000:flex-col md1000:text-center md1000:w-[full]">
-              <p className="text-white font-semibold text-[15px] relative uppercase z-10 pl-16 md1000:pl-0 mb-12">
+              <p className="text-black font-semibold text-[15px] relative uppercase z-10 pl-16 md1000:pl-0 mb-12">
                 who we are
               </p>
               <img
@@ -84,7 +84,7 @@ function About() {
                 bg={`bg-[#3f3f3f]`}
                 cN="about-cta"
                 arrowColor={`!text-white`}
-                hover={`hover:bg-[#FF0336]`}
+                hover={`hover:bg-[#FFCC00]`}
                 text="take a tour"
                 goTo="/classes"
               />

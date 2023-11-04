@@ -15,7 +15,7 @@ function Pricing() {
           <img src={BgText} className="left-0 absolute" alt="bg_img" />
           {/* title div -- */}
           <div className="flex flex-col text-center relative items-center">
-            <p className="text-white relative z-10 text-[15px] uppercase font-bold mb-8">
+            <p className="text-black relative z-10 text-[15px] uppercase font-bold mb-8">
               PRICING CHART
             </p>
             <img
@@ -28,15 +28,20 @@ function Pricing() {
               Exclusive Pricing Plan
             </h2>
             <p className="text-[#646464] font-medium text-[15px] ">
-              Gymate an unknown printer took a galley of type and scrambled
-              <br /> make a type specimen book.
+              Natty gym gives you the best pricing
+              <br /> you can ever get that is very flexible.
             </p>
           </div>
           {/* pricing boxes */}
           <div className="flex gap-10 mt-32 relative z-[2] md1000:flex-col md1000:items-center ">
-            <PricingBox img={Img1} price="3,900" />
-            <PricingBox img={Img2} price="6,500" />
-            <PricingBox img={Img3} price="10,000" />
+            <PricingBox img={Img1} title="Daily" price="400" />
+            <PricingBox img={Img2} title="Two weeks" price="2,500" />
+            <PricingBox img={Img3} title= "One Month" price="4,000" />
+          </div>
+          <div className="flex gap-10 mt-32 relative z-[2] md1000:flex-col md1000:items-center ">
+            <PricingBox img={Img3} title= "3 Months" price="11,500" />
+            <PricingBox img={Img3} title= "6 Months" price="22,500" />
+            <PricingBox img={Img3} title= "1 Year" price="42,000" />
           </div>
           <img
             src={BgDumbell}

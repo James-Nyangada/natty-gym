@@ -20,14 +20,14 @@ function Footer() {
                 <a href="">
                   <i
                     style={{ transition: "all 0.3s" }}
-                    className="fa-brands fa-facebook-f bg-[#efefef] p-4 rounded-full px-[14px] hover:bg-[#ff0366] hover:text-white"
+                    className="fa-brands fa-facebook-f bg-[#efefef] p-4 rounded-full px-[14px] hover:bg-[#FFCC00] hover:text-black"
                 ></i>
                 </a>
 
                 <a href="">
                   <i
                     style={{ transition: "all 0.3s" }}
-                    className="fa-brands fa-twitter bg-[#efefef] p-4 rounded-full hover:bg-[#ff0366] hover:text-white">
+                    className="fa-brands fa-twitter bg-[#efefef] p-4 rounded-full hover:bg-[#FFCC00] hover:text-black">
 
                   </i>
                 </a>
@@ -35,27 +35,28 @@ function Footer() {
                 <a href="">
                   <i
                     style={{ transition: "all 0.3s" }}
-                    className="fa-brands fa-pinterest-p bg-[#efefef] p-4 rounded-full px-[14px] hover:bg-[#ff0366] hover:text-white"
+                    className="fa-brands fa-pinterest-p bg-[#efefef] p-4 rounded-full px-[14px] hover:bg-[#FFCC00] hover:text-black"
                   ></i>
                 </a>
                 
                 <a href="">
                   <i
                     style={{ transition: "all 0.3s" }}
-                    className="fa-brands fa-youtube bg-[#efefef] p-4 rounded-full hover:bg-[#ff0366] hover:text-white"
+                    className="fa-brands fa-youtube bg-[#efefef] p-4 rounded-full hover:bg-[#FFCC00] hover:text-black"
                   ></i>
                 </a>
                 
               </div>
               <p className="text-[16px] font-medium text-[#646464]">
-                Privacy Policy | © {new Date().getFullYear()} Gymate <br />{" "}
+                Privacy Policy | © {new Date().getFullYear()} Natty Gym <br />{" "}
                 Designed by{" "}
                 <a
                   target="_blank"
                   rel="noreferrer"
                   href="https://jam3s.netlify.app/"
+                  class="text-yellow-700 font-bold"
                 >
-                  Jam3s.Dev || +254 114 054 247 || +254 797 060 961
+                  JAM3S.DEV
                 </a>
               </p>
             </div>
@@ -64,21 +65,21 @@ function Footer() {
             <div className="flex flex-col gap-8 relative">
               <p className="text-[22px] font-bold footer-main">Our Classes</p>
 
-              <span className="top-[33px] absolute w-[7rem] h-[4px] bg-[#ff0366]"></span>
+              <span className="top-[33px] absolute w-[7rem] h-[4px] bg-[#FFCC00]"></span>
 
-              <p className="text-[16px] hover:text-[#ff0366] cursor-pointer text-[#646464] font-medium hover:font-bold">
+              <p className="text-[16px] hover:text-[#FFCC00] cursor-pointer text-[#646464] font-medium hover:font-bold">
                 Fitness Classes
               </p>
-              <p className="text-[16px] hover:text-[#ff0366] cursor-pointer text-[#646464] font-medium hover:font-bold">
+              <p className="text-[16px] hover:text-[#FFCC00] cursor-pointer text-[#646464] font-medium hover:font-bold">
                 Aerobics Classes
               </p>
-              <p className="text-[16px] hover:text-[#ff0366] cursor-pointer text-[#646464] font-medium hover:font-bold">
+              <p className="text-[16px] hover:text-[#FFCC00] cursor-pointer text-[#646464] font-medium hover:font-bold">
                 Power Yoga
               </p>
-              <p className="text-[16px] hover:text-[#ff0366] cursor-pointer text-[#646464] font-medium hover:font-bold">
+              <p className="text-[16px] hover:text-[#FFCC00] cursor-pointer text-[#646464] font-medium hover:font-bold">
                 Learn Machines
               </p>
-              <p className="text-[16px] hover:text-[#ff0366] cursor-pointer text-[#646464] font-medium hover:font-bold">
+              <p className="text-[16px] hover:text-[#FFCC00] cursor-pointer text-[#646464] font-medium hover:font-bold">
                 Full-body Strength
               </p>
             </div>
@@ -87,7 +88,7 @@ function Footer() {
             <div className="flex flex-col gap-8 relative">
               <p className="text-[22px] font-bold footer-main">Working Hours</p>
 
-              <span className="top-[33px] absolute w-[7rem] h-[4px] bg-[#ff0366]"></span>
+              <span className="top-[33px] absolute w-[7rem] h-[4px] bg-[#FFCC00]"></span>
 
               <p className="text-[16px]  text-[#646464] font-bold">
                 Monday - Friday:
