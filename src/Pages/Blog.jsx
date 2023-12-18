@@ -71,7 +71,7 @@ function Blog() {
               <ul className="text-[16px] text-[#7e7e7e] font-medium mt-10">
                 <li className="cursor-pointer flex justify-between border-b border-[#dcd9d9] pb-6 mb-10 hover:text-[#FFCC00] ease-in duration-200">
                   <p>
-                    <i className="text-[13px]  fa-solid fa-chevron-right"></i>
+                    <i className="text-[17px]  fa-solid fa-chevron-right"></i>
                     &nbsp; Body Building
                   </p>
                   <span>(4)</span>
